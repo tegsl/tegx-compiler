@@ -1,0 +1,7 @@
+var myNumber = 10;
+var anotherNumber = 20;
+var sumResult = myNumber + anotherNumber;
+print sumResult;
+print 5 - 2;
+var finalResult = sumResult - (5 + 2);
+print finalResult;
